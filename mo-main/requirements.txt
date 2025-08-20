@@ -35,7 +35,6 @@ psutil
 py-tgcalls==0.9.7
 pyaes==1.6.1
 pymongo==4.6.3
-pyrogram
 pysocks==1.7.1
 pytgcrypto
 python-dateutil==2.9.0.post0
@@ -55,7 +54,6 @@ sniffio==1.3.1
 soupsieve==2.4
 speedtest-cli
 spotipy
-telethon
 tgcrypto==1.2.5
 tswift==0.7.0
 typing-extensions
